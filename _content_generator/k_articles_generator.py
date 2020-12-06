@@ -88,10 +88,10 @@ for input_file in input_files:
                 if article_year not in year_dic:
                     year_list.append(article_year)
                     year_list = list(set(year_list))
-                    year_dic[article_year] = [article_title]
+                    year_dic[article_year] = [f"{article_title}|{article_author}"]
                 # if it's a year which has been collected
                 else:
-                    year_dic[article_year].append(article_title)
+                    year_dic[article_year].append(f"{article_title}|{article_author}")
         # write the file for each author
         write_author_list(article_author, author_writings_list)
 year_list.sort()
