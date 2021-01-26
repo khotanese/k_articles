@@ -43,7 +43,7 @@ def write_author_list(article_author, author_writings_list):
     global one_page_by_authors
     blog_head = create_blog_head(article_author)
     output_list = [blog_head] + author_writings_list
-    one_page_by_authors += f"**{article_author}**\n\n"
+    one_page_by_authors += f"**Author: {article_author}**\n\n"
     output_string = ""
     output_filename = f"{output_path}{current_year}-{current_month}-{current_day}-{article_author}.markdown"
     with open(output_filename, "w", encoding="utf-8") as f:
