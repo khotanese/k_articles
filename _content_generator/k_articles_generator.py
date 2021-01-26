@@ -16,6 +16,7 @@ current_day = now.day
 current_hour = now.hour
 current_minute = now.minute
 current_second = now.second
+one_page_by_authors = ""
 
 def clean_content_val(data):
     data = re.sub(r"<", "&lt;", data)
@@ -39,14 +40,18 @@ def create_blog_head(title):
     "---\n")
 
 def write_author_list(article_author, author_writings_list):
+    global one_page_by_authors
     blog_head = create_blog_head(article_author)
     output_list = [blog_head] + author_writings_list
+    one_page_by_authors += f"**{article_author}**\n\n"
     output_string = ""
     output_filename = f"{output_path}{current_year}-{current_month}-{current_day}-{article_author}.markdown"
     with open(output_filename, "w", encoding="utf-8") as f:
         for outputline in output_list:
             output_string += outputline + "\n\n"
         f.write(output_string)
+    for author_writings in author_writings_list:
+        one_page_by_authors += author_writings + "\n\n"
 
 def write_chronology(year_list, year_dic):
     blog_head = create_blog_head("Chronological Bibliography")
@@ -59,6 +64,14 @@ def write_chronology(year_list, year_dic):
             current_year_bibli_list.sort()
             for entry_item in current_year_bibli_list:
                 f.write(entry_item + "\n\n")
+
+def write_one_page_by_authors():
+    global one_page_by_authors
+    blog_head = create_blog_head("Name Index on One Page (Alphabetical Order)")
+    one_page_by_authors = blog_head + one_page_by_authors
+    with open(f"{output_path}{current_year}-{current_month}-{current_day}-Name Index on One Page (Alphabetical Order).markdown", "w", encoding="utf-8") as f:
+        f.write(one_page_by_authors)
+
 
 
 # read all the csv files from "input/"
@@ -97,6 +110,7 @@ for input_file in input_files:
 year_list.sort()
 # write chronological bibliography
 write_chronology(year_list, year_dic)
+write_one_page_by_authors()
 print("Done!")
   
 

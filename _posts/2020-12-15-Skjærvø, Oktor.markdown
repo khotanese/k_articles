@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Skjærvø, Oktor"
-date: 2020-12-15 16:24:6 +0800
+date: 2021-1-27 1:39:46 +0800
 description: 
 img: 
 ---
@@ -37,7 +37,7 @@ The Old Khotanese fragment  H 147 NS  115 and remarks on Old Khotanese <i>hamdä
 
 <i>Review</i>: C. J. Brunner, <i>Sasanian stamp seals in The Metropolitan Museum of Art</i>, New York, 1978, in <i>JRAS</i>, 1982, p. 59.
 
-<i>Review</i>: D. Monchi-Zadeh, <i>Die Geschichte Zarēr’s</i>, Uppsala, 1981, <i>in JRAS</i>, 1982, pp. 191-192.
+<i>Review</i>: D. Monchi-Zadeh, <i>Die Geschichte Zarēr’s</i>, Uppsala, 1981, in<i> JRAS</i>, 1982, pp. 191-192.
 
 <i>The Khotanese Suvarṇabhāsottamasūtra</i>. Pt. 1. <i>The manuscripts: transcription with critical apparatus and indices </i>(34 + 168 pp., xerox). Pt. 2.<i> Synoptic Khotanese text and English translation containing the corresponding Sanskrit text compared with the Tibetan and Chinese versions </i>(403 pp., xerox). Pt. 3. Commentary (44 + 22 pp., xerox). Doctoral Habilitation thesis. Mainz, West Germany, 1983. (see no. 163)
 
@@ -51,7 +51,7 @@ Kirdir’s vision: translation and analysis, <i>Archäologische Mitteilungen aus
 
 <i>Review</i>: M. Macuch, <i>Das Sasanidische Rechtsbuch ”Mātakdān-i Hazār Dātistān” (Teil II)</i>, Wiesbaden, 1981, in <i>JRAS</i>, 1983, pp. 112-113.
 
-<i>Review</i>: H. W. Bailey, <i>Khotanese Buddhist Texts</i>, revised edition, Cambridge, 1981, <i>in JRAS</i>, 1983, pp. 120-121.
+<i>Review</i>: H. W. Bailey, <i>Khotanese Buddhist Texts</i>, revised edition, Cambridge, 1981, in <i>JRAS</i>, 1983, pp. 120-121.
 
 <i>Review</i>: W. Meid and K. Heller, <i>Italienische Interferenzen in der lautlichen Struktur des Zimbrischen</i>, Vienna, 1979, in <i>Beiträge zur Namensforschung</i>, N.F., 18.2, 1983, 220-223.
 
@@ -239,7 +239,7 @@ The Literature of the Most Ancient Iranians, in S. J. H. Manekshaw and P. R. Ich
 
 The State of Old-Avestan Scholarship,<i> JAOS</i> 117/1, 1997, pp. 103-114 [rev. article of J. Kellens-E. Pirart, <i>Les textes vieil-avestiques</i>, vols. 2-3, Paris, 1990, 1991; J. Kellens, <i>Le panthéon de lAvesta ancien</i>, Paris, 1994].
 
-Avestica I. A Perfect Participle, vaox<sup>v</sup>åŋhō,” JAOS 117/1, 1997, pp. 145-147.
+Avestica I. A Perfect Participle, vaox<sup>v</sup>åŋhō, <i>JAOS</i> 117/1, 1997, pp. 145-147.
 
 Counter-Manichean  Elements  in  Kerdīr’s  Inscriptions.    Irano-Manichaica  II, in  L.  Cirillo  and  A. v.Tongerloo, eds., <i>Atti del Terzo Congresso Internazionale di Studi “Manicheismo e Oriente cristiano antico,” Arcavacata di Rende-Amantea 31 agosto - 5 settembre 1993</i> (Manichean Studies III), Louvain and Naples: Brepols, 1997, pp. 313-342.
 
@@ -390,15 +390,15 @@ Khotanese, in <i>Encyclopaedia Iranica</i>.
 
 Middle Persian, in <i>Encyclopaedia Iranica</i>.
 
-Languages of the World – Indo-European Languages ‘Iranian Languages,’ Encyclopaedia of Language and Linguistics, 2nd ed.
+Languages of the World – Indo-European Languages ‘Iranian Languages,’ <i>Encyclopaedia of Language and Linguistics</i>, 2nd ed.
 
-Languages of the World – Indo-European Languages ‘Persian, Modern,’ Encyclopaedia of Language and Linguistics, 2nd ed.
+Languages of the World – Indo-European Languages ‘Persian, Modern,’ <i>Encyclopaedia of Language and Linguistics</i>, 2nd ed.
 
-Writing systems. Iran: scripts, Aramaic, Encyclopaedia of Language and Linguistics, 2nd ed. 
+Writing systems. Iran: scripts, Aramaic, <i>Encyclopaedia of Language and Linguistics</i>, 2nd ed. 
 
-Writing systems. Iran: script, Avestan, Encyclopaedia of Language and Linguistics, 2nd ed. 
+Writing systems. Iran: script, Avestan, <i>Encyclopaedia of Language and Linguistics</i>, 2nd ed. 
 
-Writing systems. Iran: script, Old Persian, Encyclopaedia of Language and Linguistics, 2nd ed.
+Writing systems. Iran: script, Old Persian, <i>Encyclopaedia of Language and Linguistics</i>, 2nd ed.
 
 Old Iranian languages, in A. Kaye, ed., <i>Morphologies of Asia and Africa</i>.
 

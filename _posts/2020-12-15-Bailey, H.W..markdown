@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bailey, H.W."
-date: 2020-12-15 16:24:6 +0800
+date: 2021-1-27 1:39:46 +0800
 description: 
 img: 
 ---
@@ -121,7 +121,7 @@ Turks in Khotanese texts, <i>JRAS</i>, 1939, 1, 85-91.
 
 <i>Review</i>: G. Morgenstierne, <i>Indo-Iranian Frontier Languages. Vol. II. Iranian Pamir Languages</i>, Oslo, 1938, in <i>BSOS</i> ,IX, 4, 1939, pp. 1057-8.
 
-<i>Review</i>: J. Duchesne-Guillemin,<i> Les Composҳs de l’Avesta, Liége</i>, 1936, in JRAS, 1939, I, pp. 112-7
+<i>Review</i>: J. Duchesne-Guillemin,<i> Les Composҳs de l’Avesta, Liége</i>, 1936, in <i>JRAS</i>, 1939, I, pp. 112-7
 
 Rāma[, Ⅰ] , <i>BSOS</i>, Ⅹ, 2, 1940, 365-76.
 
