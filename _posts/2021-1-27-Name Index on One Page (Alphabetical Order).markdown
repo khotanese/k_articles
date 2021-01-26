@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Name Index on One Page (Alphabetical Order)"
-date: 2021-1-27 1:48:45 +0800
+date: 2021-1-27 1:53:9 +0800
 description: 
 img: 
 ---
@@ -438,7 +438,7 @@ Iranian <i>kēt</i> ‘Foreteller’ and Related Words, <i>Acta Iranica</i>, 30,
 
 Asiani and Pasiani, in <i>Bulletin of the Asia Institute</i>, NS, vol. 7, 1993, pp. 9-10.
 
-**Author: Emmerick, Ronald Eric **
+**Author: Emmerick, Ronald Eric**
 
 Review: Chauncey J. Blair, <i>Heat in the Rig Veda and Atharva Veda</i>, New Haven 1961, <i>JRAS</i>, 1963, pp. 107-108.
 
