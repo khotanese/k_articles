@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Emmerick, Ronald Eric "
-date: 2021-4-23 19:28:52 +0800
+title: "Emmerick, Ronald Eric"
+date: 2021-4-23 21:15:35 +0800
 description: 
 img: 
 ---
