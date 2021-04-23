@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Chronological Bibliography"
-date: 2021-1-27 1:39:46 +0800
+date: 2021-4-23 19:28:52 +0800
 description: 
 img: 
 ---
@@ -865,6 +865,22 @@ Farnah : mot mède en vieux-perse?<i> Bulletin de la Société Linguistique</i> 
 On the editing of Khotanese Buddhist texts, in <i>Middle Iranian Studies. Proceedings of the Interna- tional Symposium organized by the Katholieke Universiteit Leuven from the 17th to the 20th of May 1982</i>, ed. by W. Skalmowski and A. van Tongerloo, Louvain, 1984, pp. 151-158.｜Skjærvø, Oktor
 
 Vedic ksumpa- and related Data, <i>Amṛtadhārā, Professor R. N. Dandekar Felicitation Volume</i>, ed. S.D. Joshi, Delhi, 1984, pp. 17-20.｜Bailey, H.W.
+
+“A New Khotanese Document from China,” <i>Studia Iranica</i> 13/2, 1984, pp. 193-98, pl. xiv.｜Emmerick, Ronald Eric 
+
+“Cā tteya khī in the Musée Guimet,” <i>Studia Iranica</i> 13/2, 1984, pp. 251-52, pl. xvi.｜Emmerick, Ronald Eric 
+
+“Khotanese vī hā,” in <i>Orientalia J. Duchesne-Guillemin emerito oblata</i>, Leiden, 1984, pp. 151-55.｜Emmerick, Ronald Eric 
+
+“Newly-discovered Buddhist texts from Khotan”,  Yamamoto Tatsuro, ed., <i>Proceedings of the Thirty-First International Congress of Human Sciences in Asia and North Africa</i>, Tokyo-Kyoto 31st August × 7th September 1983, vol. 1, Tokyo, 1984, pp. 219-220. ｜Emmerick, Ronald Eric 
+
+“Research on Khotanese: A Survey (1979-1982),” in W. Skalmowski and A. van Tongerloo, eds., <i>Middle Iranian Studies: Proceedings of the International Symposium Organized by the Katholieke Universiteit Leuven from the 17th to the 20th of May 1982</i>, Leuven, 1984, pp. 127-45.｜Emmerick, Ronald Eric 
+
+“Some Remarks on the History of Leprosy in India,” <i>Indologica Taurinensia</i> 12, 1984, pp. 93-105.｜Emmerick, Ronald Eric 
+
+“The Indexation of Sanskrit Medical Texts: Progress and Prospects,” in G. J. Meulenbeld, ed., <i>Proceedings of the International Workshop on Priorities in the Study of Indian Medicine Held at the State University of Groningen, 23-27 October 1983</i>, Groningen, 1984, pp. 147-54.｜Emmerick, Ronald Eric 
+
+“Tibetan Lexical Notes,” in L. Ligeti, ed., <i>Tibetan and Buddhist Studies Commemorating the 200th Anniversary of the Birth of Alexander Csoma de Kőrös I</i>, Budapest, 1984, pp. 207-10.｜Emmerick, Ronald Eric 
 
 # 1985
 

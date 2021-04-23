@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Name Index on One Page (Alphabetical Order)"
-date: 2021-1-27 1:53:9 +0800
+date: 2021-4-23 19:28:52 +0800
 description: 
 img: 
 ---
@@ -438,7 +438,7 @@ Iranian <i>kēt</i> ‘Foreteller’ and Related Words, <i>Acta Iranica</i>, 30,
 
 Asiani and Pasiani, in <i>Bulletin of the Asia Institute</i>, NS, vol. 7, 1993, pp. 9-10.
 
-**Author: Emmerick, Ronald Eric**
+**Author: Emmerick, Ronald Eric **
 
 Review: Chauncey J. Blair, <i>Heat in the Rig Veda and Atharva Veda</i>, New Haven 1961, <i>JRAS</i>, 1963, pp. 107-108.
 
@@ -711,6 +711,22 @@ Some remarks on translation techniques of the Khotanese,  <i>Sprachen des Buddhi
 The Iranian settlements to the East of the Pamirs,  <i>The Cambridge History of Iran</i>, vol. 3 (1), ed. E.Yarshater, Cambridge 1983, pp. 263-275 (= Chapter 7)
 
 Buddhism among Iranian peoples, <i>The Cambridge History of Iran</i>, vol. 3 (2), ed. E. Yarshater, Cambridge 1983, pp. 949-964 (= Chapter 26) 
+
+“Cā tteya khī in the Musée Guimet,” <i>Studia Iranica</i> 13/2, 1984, pp. 251-52, pl. xvi.
+
+“The Indexation of Sanskrit Medical Texts: Progress and Prospects,” in G. J. Meulenbeld, ed., <i>Proceedings of the International Workshop on Priorities in the Study of Indian Medicine Held at the State University of Groningen, 23-27 October 1983</i>, Groningen, 1984, pp. 147-54.
+
+“Khotanese vī hā,” in <i>Orientalia J. Duchesne-Guillemin emerito oblata</i>, Leiden, 1984, pp. 151-55.
+
+“A New Khotanese Document from China,” <i>Studia Iranica</i> 13/2, 1984, pp. 193-98, pl. xiv.
+
+“Research on Khotanese: A Survey (1979-1982),” in W. Skalmowski and A. van Tongerloo, eds., <i>Middle Iranian Studies: Proceedings of the International Symposium Organized by the Katholieke Universiteit Leuven from the 17th to the 20th of May 1982</i>, Leuven, 1984, pp. 127-45.
+
+“Some Remarks on the History of Leprosy in India,” <i>Indologica Taurinensia</i> 12, 1984, pp. 93-105.
+
+“Tibetan Lexical Notes,” in L. Ligeti, ed., <i>Tibetan and Buddhist Studies Commemorating the 200th Anniversary of the Birth of Alexander Csoma de Kőrös I</i>, Budapest, 1984, pp. 207-10.
+
+“Newly-discovered Buddhist texts from Khotan”,  Yamamoto Tatsuro, ed., <i>Proceedings of the Thirty-First International Congress of Human Sciences in Asia and North Africa</i>, Tokyo-Kyoto 31st August × 7th September 1983, vol. 1, Tokyo, 1984, pp. 219-220. 
 
 <i>The Tumshuqese Karmavācanā Text</i> (Abhandlungen der geistes- und
 sozialwissenschaftlichen Klasse Jahrgang 1985 Nr. 2), Akademie
