@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Chronological Bibliography"
-date: 2021-4-23 21:15:35 +0800
+date: 2021-12-21 21:19:42 +0800
 description: 
 img: 
 ---
@@ -952,6 +952,8 @@ Verbs in Parthian and Middle Persian inscriptions, in <i>Studia Grammatica Irani
 
 <i>Studies in the vocabulary of Khotanese</i> II (Veröffentlichungen der iranischen Kommission herausgegeben von Manfred Mayrhofer Band 17), Verlag der österreichischen Akademie der Wissenschaften: Wien 1987 (with P.O. Skjærvø). Pp. 179.｜Emmerick, Ronald Eric
 
+<i>draivī</i>, R.E. Emmerick and P.O. Skjærvø (eds.), <i>Studies in the Vocabulary of Khotanese II</i>, Wien: Österreichische Akademie der Wissenschaften, 1987, pp. 61-62.｜段晴
+
 Aswār, in the <i>Encyclopædia Iranica</i> II/8, 1987, p. 877.｜Skjærvø, Oktor
 
 Auxiliaries in Khotanese, in M. Harris and P. Ramat, eds., <i>Historical Development of Auxiliaries</i>, Berlin, 1987a, pp. 271-90.｜Emmerick, Ronald Eric
@@ -985,6 +987,8 @@ The legend of Aśoka in Khotanese, in the <i>Encyclopædia Iranica</i> II/7, 198
 <i>Review</i>:  H.  Hoffmann-L.  Sander:  Kleinere  Sanskrit-Texte  Heft  V.  Bruchstücke  des  Āṭānāṭikasūtra  aus dem zentralasiatischen Sanskritkanon der Budhiste. Nachtrag zu ”Kleinere Sanskrit-Texte,” Hefte III-V” zusammengestellt von Lore Sander. Stuttgart, 1987, in <i>JRAS</i>, 1988, pt. 2, pp. 428-429.｜Skjærvø, Oktor
 
 <i>Review</i>: K. Kamioka et al., Lārestāni Studies 1-2, Tokyo, 1979, 1986, <i>in Journal of the American Oriental Society</i> 108/2, 1988, pp. 325-326.｜Skjærvø, Oktor
+
+<sup>于阗文中的八曜</sup>，<sup>民族语文</sup>1988年第4期，第36—40页。｜段晴
 
 Bag nask, in the <i>Encyclopædia Iranica</i> III/4, 1988, pp. 400-401.｜Skjærvø, Oktor
 
@@ -1084,6 +1088,8 @@ rGas-pa gso-ba, in T. Skorupski, ed., <i>Indo-Tibetan studies: Papers in Honour
 
 <i>The Gāthās of Zarathushtra and the Other Old Avestan Texts</i>. By H. Humbach in collaboration with J. Elfenbein and P. O. Skjærvø. 2 vols. Heidelberg, 1991.｜Skjærvø, Oktor
 
+<sup>于阗语的蚕字、茧字、丝字</sup>，李铮、蒋忠新主编：<sup>季羡林先生八十华诞纪年论文集</sup>（上卷），江西：江西教育出版社，1991年，第45—50页。｜段晴
+
 A new edition of the Khwarezmian phrases in the <i>Qunyat al-munya</i>, <i>BSOAS</i> 54/3, 1991, pp. 496-505 (review of D. N. MacKenzie, <i>The Khwarezmian Element in the</i> Qunyat al-Munya. Arabic text translated by Hasan Amaarat and D. N. MacKenzie, School of Oriental and African Studies, University of London. 1990).｜Skjærvø, Oktor
 
 Chinese Turkestan. ii. In Pre-Islamic Times, in: <i>Encyclopædia Iranica </i>V/5, 1991, pp. 463-69. With V. Mair.｜Skjærvø, Oktor
@@ -1110,6 +1116,8 @@ Ysenikām, in <i>Studia Etymologica Indoeuropaea  Memoriae A. J. van Windekens (
 
 <i>Review</i>: J. Benzing: <i>Chwaresmischer Wortindex. Mit einer Einleitung von Helmut Humbach. Herausgegeben von Zahra Taraf</i>. Wiesbaden, 1983, in <i>ZDMG </i>142/1, 1992, 175-85.｜Skjærvø, Oktor
 
+<sup>西方鬼的故事：晚皮尔的传说</sup>，<sup>国外文学</sup>1992第3期，第85—93页。｜段晴
+
 A Seal-Amulet of the Sasanian Era: Imagery and Typology, the Inscription, and Technical Comments:II. The Inscription in <i>Bulletin of the Asia Institute</i> 6, 1992 [Dec. 1993], pp. 49-56. With P. O. Harper et al.｜Skjærvø, Oktor
 
 Iranian, pp. 289-345 (= Chapter 8) in: <i>Indo-European Numerals</i> (Trends in Linguistics, Studies and Monographs 57, ed. W. Winter), ed. Jadranka Gvozdanović , Berlin×New York 1992. ｜Emmerick, Ronald Eric
@@ -1135,6 +1143,12 @@ Tibetan Databank Management with Personal Computers, in Ihara S. and Yamaguchi Z
 <i>Review</i>: Ph. Gignoux, Les quatre inscriptions du Mage Kirdīr. Textes et concordances. (Collection des sources pour l’histoire de l’Asie centrale pré-islamique, sér. II, vol. I = Studia Iranica, cahier 9). Union Académique internationale. Association pour l’avancement des études iraniennes, Paris, 1991, in Biblio- theca Orientalis, 5/6, Sept.-Nov., 1993, cols. 690-700 (rec’d 7/20/94).｜Skjærvø, Oktor
 
 <i>Saka Documents VII: The St. Petersburg Collections</i>, Corpus Inscr. Iran. II/V, London, 1993d (with M. I. Vorob’ëva-Desjatovskaja).｜Emmerick, Ronald Eric
+
+<sup>“慈悲者之城”与“涅槃城”</sup>，<sup>南亚研究</sup>1993第2期，第41—45页。｜段晴
+
+<sup>于阗经文中“作茧自缚”的来源</sup>，<sup>民族语文</sup>1993第1期，第63—66页。｜段晴
+
+<sup>于阗语〈出生无边门陀罗尼经〉残片释读</sup>，<sup>西域研究</sup>1993年第2期，第46—51页。｜段晴
 
 Asiani and Pasiani, in <i>Bulletin of the Asia Institute</i>, NS, vol. 7, 1993, pp. 9-10.｜Bailey, H.W.
 
@@ -1196,6 +1210,18 @@ Review: <i>Tibetan medical paintings: illustrations to the Blue Beryl treatise o
 
 <i>The Sūtra of Golden Light, being a translation of the Suvarṇabhāsottamasūtra</i> (Sacred Books of the Buddhists XXVII), 3rd (revised) ed., Luzac and Company Ltd: London 1996. Pp. xvi + 110.｜Emmerick, Ronald Eric
 
+<sup>〈大唐西域记〉瞿萨旦那国拾零</sup>，北京大学东方文化研究所编：<sup>东方研究</sup>（1996、1997年合集），北京：蓝天出版社，第139—146页。｜段晴
+
+<sup>安徒生童话故事集</sup>，河北少儿出版社，1996年。｜段晴译
+
+<sup>据史德语考</sup>，<sup>中亚学刊</sup>（第五辑），1996年，乌鲁木齐：新疆人民出版社，第9—21页。｜荣新江，段晴
+
+<sup>格林童话故事集</sup>，河北少儿出版社，1996年。｜段晴译
+
+<sup>梵语基础读本</sup>，北京：北京大学出版社 ，1996年。｜季羡林，段晴等译
+
+<sup>面如满月：浅谈中印审美观的差异</sup>，<sup>北京大学学报</sup>（东方文化研究专刊），1996年，第25—31页。｜段晴
+
 A Khotanese Monastic Account Book, in R. E. Emmerick et al., eds., <i>Turfan, Khotan und Dunhuang: Vorträge der Tagung “Annemarie v. Gabain und die Turfanforschung”, veranstaltet von der Berlin-Brandenburgischen Akademie der Wissenschaften in Berlin (9.-12.12.1994)</i>, Berlin, 1996a, pp. 51-65.｜Emmerick, Ronald Eric
 
 Hymnic Composition in the Avesta, <i>Die Sprache</i> 36/2, 1994, pp. 199-243.｜Skjærvø, Oktor
@@ -1226,6 +1252,10 @@ The Avesta as Source for the Early History of the Iranians, in G. Erdosy, ed., <
 
 <i>Zarathustra in the Avesta and in Manicheism. Irano-Manichaica III., in <i>La Persia e l’Asia centrale da Alessandro al X secolo ... (Roma, 9-12 novembre 1994)</i>, Roma: Academia Nazionale dei Lincei, 1996 [1997], pp. 597-628.｜Skjærvø, Oktor
 
+<sup>从〈梨俱吠陀〉读出的历史</sup>，<sup>南亚研究</sup>1997年第1期，第91—93页。｜段晴
+
+<sup>新疆新出于阗文案牍文书研究</sup>，季羡林等主编：<sup>敦煌吐鲁番研究</sup>第2卷，北京：北京大学出版社，1997年，第1—12页。｜段晴、王炳华
+
 Aramaic in Iran, <i>ARAM</i>7 (<i>Palmyra and the Aramaeans</i>), 1995 [1997/98], pp. 283-318.｜Skjærvø, Oktor
 
 Avestica I. A Perfect Participle, vaox<sup>v</sup>åŋhō, <i>JAOS</i> 117/1, 1997, pp. 145-147.｜Skjærvø, Oktor
@@ -1255,6 +1285,12 @@ Uses of Clay Bullae in Sasanian Iran: Bullae in the Rosen and Museum of Fine Art
 <i>Review</i>: Kellens, Jean: <i>Liste du verbe avestique avec un appendice sur l’orthographe des racines avestiques par Eric Pirart</i>,Wiesbaden: Dr. Ludwig Reichert Verlag, 1995, in <i>Kratylos</i> 43, 1998, pp. 190- 191.｜Skjærvø, Oktor
 
 <i>Vāgbhaṭa’s Aṣṭāṅgahr̥dayasaṃhitā. The Romanised Text Accompanied by Line and Word Indexes</i>, Groningen, 1998c (with R. P. Das).｜Emmerick, Ronald Eric
+
+<i>What does Indology specially mean for China</i>，北京大学东方文化研究所编：<sup>东方研究——纪念百年校庆论文集</sup>，北京：蓝天出版社，1998年，第429—441页。｜段晴
+
+<sup>几件与册封于阗王有关的于阗语文书</sup>，叶奕良编：<sup>伊朗学在中国论文集</sup>（第二集），北京：北京大学出版社，1998年，第9—13页。｜段晴
+
+<sup>印度人的自然观初探</sup>，<sup>南亚研究</sup>1998年第1期，第51—56页。｜段晴
 
 Avestica II. Yokes and Spades and Remnants of the “Tripartite Ideology”, <i>Münchener Studien zur Sprachwissenschaft</i> 57, 1997 [1998], pp. 115-128.｜Skjærvø, Oktor
 
@@ -1292,6 +1328,10 @@ Khotan, An Early Center of Buddhism in Chinese Turkestan, <i>in Collection of Es
 
 <i>Transl.</i> Jean Kellens, <i>Essays on Zarathustra and Zoroastrianism</i>, Translated and edited by Prods Oktor Skjærvø, Costa Mesa, California: Mazda Publishers, 2000.｜Skjærvø, Oktor
 
+<sup>敦煌新出土叙利亚文书释读报告</sup>，彭金章、王建军、敦煌研究院编：<sup>敦煌莫高窟北区石窟</sup>（第一卷），北京：文物出版社，2000年，第382—390页。｜段晴
+
+<sup>敦煌新出土叙利亚文书释读报告（续篇）</sup>，<sup>敦煌研究</sup>2000年第4期，第120—126页。｜段晴
+
 Den store gud er Ahura Mazda. Iran, transls. from Avestan and Pahlavi, in <i>I begynnelsen</i>, Den norske bokklubben, Oslo, 2000, pp. 307-323.｜Skjærvø, Oktor
 
 Eastern Iranian Epic Traditions III: Zarathustra and Diomedes—An Indo-European Epic Warrior Type, <i>Bulletin of the Asia Institute</i> 11, 1997 [2000], pp. 175-182 [November 30, 2000].｜Skjærvø, Oktor
@@ -1310,6 +1350,8 @@ The Joy of the Cup, <i>Bulletin of the Asia Institute</i> 11, 1997 [2000], pp. 9
 
 # 2001
 
+<i>Bericht über ein neuentdecktes syrisches Dokument aus Dunhuang/China (mit 2 Abbildungen)</i>, <i>Oriens Christianus</i>, Vol. 85, 2001, pp.84-93.｜段晴
+
 <i>Review</i>: Huyse, Philip: Die dreisprachige Inschrift Šābuhrs I. an der Ka͑ba-i Zardušt (ŠKZ). London: School of Oriental and African Studies 1999. 8° = Corpus Inscriptionum Iranicarum, part 3: Pahlavi Inscriptions, vol. 1: Royal Inscriptions, with their Parthian and Greek Versions, Texts 1. In <i>Orientalistische Literaturzeitung</i> 96/2, cols. 286-288.｜Skjærvø, Oktor
 
 <i>Review</i>: MacKenzie, David Neil: Iranica Diversa. Ed. by Carlo G. Cereti and Ludwig Paul. Roma: Istituto Italiano per l’Africa e l’Oriente 1999. 8° = Serie Orientale Roma LXXXIV.1. Vol. 1. XII, in <i>Orientalistische Literaturzeitung</i> 96, pp. 99-100.｜Skjærvø, Oktor
@@ -1322,6 +1364,8 @@ The Joy of the Cup, <i>Bulletin of the Asia Institute</i> 11, 1997 [2000], pp. 9
 
 <i>Trans.</i> & ed. Philippe Gignoux, <i>Man and Cosmos in Ancient Iran</i>, Ratanbai Katrak Lectures, Serie Orientale Roma XCI, Rome, 2001 (extensive editing and retranslating).｜Skjærvø, Oktor
 
+<sup>波你尼语法入门</sup>（<i>Introduction into Pāṇīni’s system</i>），北京：北京大学出版社，2001年。｜段晴
+
 Mount Alborz in Khotanese? in A. A. Sadeghi, ed., <i>Tafazzoli Memorial Volume</i>, Tehran, 2001, pp. 19-20.｜Emmerick, Ronald Eric
 
 Review: <i>Bhesajjamañjūsā. Chapters 1-18</i>, ed. Jinadasa Liyanaratne, The Pali Text Society, Oxford 1996, in Tradional South Asian Medicine, 6, 2001, 184-189.｜Emmerick, Ronald Eric
@@ -1332,11 +1376,21 @@ Rivals and bad poets: The Poet’s Complaint in the Old Avesta, in M. G. Schmidt
 
 # 2002
 
+"The Study of Sanskrit at Peking University", presented at first at Center for Advanced Studies, Oslo,Norwegen, 10th June 2002; Published in <i>Fragile Palm Leaves</i>, No.7( December 2002), Bangkok, Thailand.｜段晴
+
 <i>Khotanese Manuscripts from Chinese Turkestan in The British Library. A Complete Catalogue with Texts and Translations</i>, with Contributions by Ursula Sims-Williams, The British Library, 2002 (Corpus Inscriptionum Iranicarum II/V, Texts VI).｜Skjærvø, Oktor
 
 <i>Review</i>: Helmut Humbach and Pallan R. Ichaporia. <i>Zamyād Yasht. Yasht 19 of the Younger Avesta. Text, Translation, Commentary</i>, Wiesbaden: Harrassowitz Verlag, 1998, in <i>Bulletin of the Asia Institute</i> 13, 1999 [2002], pp. 182-90.｜Skjærvø, Oktor
 
 <i>Review</i>: Rüdiger Schmitt, <i>Selected Onomastic Writings</i>, ed. Winfried Breidbach and Philip Huyse. Persian Studies Series 20, New York: Bibliotheca Persica Press, 2000, in <i>Bulletin of the Asia Institute</i> 13, 1999 [2002], p. 190.｜Skjærvø, Oktor
+
+<sup>敦煌莫高窟北区出土的一件梵语残卷</sup>，戒幢佛学研究所编：<sup>戒幢佛学</sup>（第二卷），长沙：岳麓书社，2002年，第68—78页。｜段晴
+
+<sup>梵语与零的发现</sup>，<sup>东方研究2001年</sup>，2002年，第299-307页。｜段晴
+
+<sup>梵语以及梵语的启示</sup>，于维雅主编：<sup>东方语言文字与文化</sup>，北京：北京大学出版社，2002年，第154—165页。｜段晴
+
+<sup>素材是人文科学的基础</sup>，<sup>语言学研究</sup>第一辑，北京：北京大学出版社，2002年，第181-185页。｜段晴
 
 Ahura Mazdā and Ārmaiti, Heaven and Earth, in the Old Avesta, in J. P. Brereton and S. W. Jamison, eds., <i>Indic and Iranian Studies in Honor of Stanley Insler on His Sixty-Fifth Birthday</i>, JAOS 122/2, 2002, pp. 399-410.｜Skjærvø, Oktor
 
@@ -1364,6 +1418,16 @@ The Stein Khotanese collection, <i>Bulletin of the Asia Institute</i> 13, 1999 [
 
 <i>Zarathustras sanger og de zoroastriske skrifter</i>, De norske bokklubbene, Oslo, 2004.｜Skjærvø, Oktor
 
+<sup>于阗语〈罗摩衍那〉的故事</sup>，<sup>东方文学比较研究</sup>，北京：北京大学出版社，2003年，第138-157页。｜段晴
+
+<sup>唐代大秦寺与景教僧新释</sup>，<sup>唐代宗教信仰与社会</sup>（北京大学盛唐研究丛书），上海：上海辞书出版社，2003年，第434-472页。｜段晴
+
+<sup>对vibhakti类词缀的补充说明</sup>，<sup>东方研究</sup>2002/2003年，北京：经济日报出版社，第123-136页。｜段晴
+
+<sup>景教碑中的七时之说</sup>，<sup>伊朗学在中国论文集</sup>（第三册），北京：北京大学出版社，2003年，第21-30页。｜段晴
+
+<sup>读薛克翘先生〈中印文学比较研究〉有感</sup>，<sup>南亚研究</sup>，2003年第2期，第92-93页。｜段晴
+
 Coupe portant une inscription en moyen perse, in <i>Catalogue de l’exposition De l’Indus à l’Oxus. Archéologie de l’Asie Centrale</i>, ed. O. Boperachi et al., Association IMAGO - musée de Lattes: Lattes, 2003, pp. 378 (no. 331), 382 (pl. 331).｜Skjærvø, Oktor
 
 Fragments of the Ratnakūtra-sūtra (Kāśyapaparivarta) in Khotanese, in C. G. Cereti, M. Maggi, and E. Provasi, eds., <i>Religious Themes and Texts of Pre-Islamic Iran and Central Asia. Studies in Honour of Professor Gherardo Gnoli on the Occasion of His 65th Birthday on 6 December 2002</i>, Beiträge zur Iranistik 24, Wiesbaden: Dr. Ludwig Reichert Verlag, 2003, pp. 409-420, with pls. 11-12.｜Skjærvø, Oktor
@@ -1378,11 +1442,17 @@ Truth and Deception in Ancient Iran,” in F. Vajifdar and C. Cereti, eds., <i>J
 
 Zarathustra: First Poet-Sacrificer, in <i>Paitimāna. Essays in Iranian, Indian, and Indo-European Studies in Honor of Hanns-Peter Schmidt</i>, vols. I-II in one, ed. S. Adhami, Costa Mesa: Mazda, 2003, pp. 157- 94.｜Skjærvø, Oktor
 
+“A Newly Found Sanskrit Fragment from Dunhuang,” <i>Annual Report of the International Research Institute for Advanced Buddhology at Soka University</i>, vol.VI (2003), pp.197-206.｜Duan, Qing, and Jin-zhang Peng.
+
+书评：林悟殊：<sup>唐代景教再研究</sup>，<sup>中国学术</sup>2003年第3期，第311-314页。｜段晴
+
 # 2004
 
 <i>Review</i>: Iris Colditz, <i>Zur Sozialterminologie der iranischen Manichäer. Eine semantische Analyse im Vergleich zu den nichtmanichäischen iranischen Quellen</i>, Iranica, ed. Maria Macuch, vol. 5, Wiesbaden: Harrassowitz Verlag, 2000, in <i>JAOS</i> 124/1, 2004, pp. 111-13.｜Skjærvø, Oktor
 
 <i>The Khotanese Suvarṇabhāsottamasūtra</i>, Sources of Oriental Languages and Literatures, ed. Ș. Tekin and G. A. Tekin, publ. at Harvard University, NELC, Cambridge, Mass., 2004.｜Skjærvø, Oktor
+
+<sup>西域胡语文书</sup>，<sup>敦煌与丝路文化学术讲座（二）</sup>，北京：北京图书馆出版社，2004年，第36-62页。｜段晴
 
 Contents of the Niyayishns or Niyayesh, <i>FEZANA Journal</i>, Summer 2004 (Treasures from the Avesta: Niyayishns and Yashts), pp. 32-40.｜Skjærvø, Oktor
 
@@ -1394,10 +1464,22 @@ Smashing Urine: on Yasna 48.10, in M. Stausberg, ed., <i>Zoroastrian Rituals in 
 
 The Antiquity of Old Avestan, <i>Nāme-ye Irān-e Bāstān</i>. <i>The International Journal of Ancient Iranian Studies</i> 3/2, 2003-2004, pp. 15-41.｜Skjærvø, Oktor
 
+“What does Indology mean Specially for China”,  in Saroja Bhate(eds.), <i>Indology: Past, Present and Future</i>, New Delhi: Sahitya Akadami, 2004, p.228.｜Duan Qing
+
 # 2005
 
 <i>Review</i>: Philippe Gignoux, <i>Noms propres sassanides en moyen-perse épigraphique. Supplément [1986– 2001]</i>, Österreichische Akademie der Wissenschaften. Philosophisch-historische Klasse. Sonder- publikation der Iranischen Kommission. Iranisches Personennamenbuch, ed. H. Eichner, R. Schmitt, and X. Tremblay. Band II. Mitteliranische Personennamen. Faszikel 3, Vienna: Verlag der Öster- reichischen Akademie der Wissenschaften, 2003, in <i>Bulletin of the Asia Institute</i> 15, 2001 [2005], pp.
 $$.｜Skjærvø, Oktor
+
+<sup>大秦寺的守望者</sup>，<sup>书城</sup>2005年第11期，第70-73页。｜段晴
+
+<sup>摩诃婆罗多</sup>，北京：中国社会出版社，2005年。｜金克木、赵国华、席必庄等译
+
+<sup>梵汉本〈法华经〉语词札记</sup>，<sup>古汉语研究</sup>2005年第2期，第68-73页。｜朱冠明，段晴
+
+<sup>筋斗背后的故事——从一个家喻户晓的词汇透视粟特文化的遗踪</sup>，<sup>粟特人在中国-历史、考古、语言的新探索</sup><sup>法国汉学</sup>第十辑，北京：中华书局，2005年，第402-415页。｜段晴
+
+<sup>西域语趣――读〈正法华〉、〈妙法〉随笔</sup>，<sup>中国学术</sup>第二十一辑，北京：商务印书馆，2005年，第193-204页。｜段晴
 
 A Force against Evil, Good vs. Evil, The Amesha Spentas, The Avesta, The <i>Fravashis</i>, in <i>Calliope. Exploring World History: Good Words, Good Thoughts, Good Deeds. Zoroastrianism</i>, vol. 15, no. 5, January 2005, Cobblestone Publications (magazine targeting a young audience).｜Skjærvø, Oktor
 
@@ -1413,9 +1495,230 @@ Poetic and Cosmic Weaving in Ancient Iran. Reflections on Avestan vahma and Yasn
 
 The Avestan Yasna: Ritual and Myth, <i>FEZANA Journal</i>, Summer 2005, pp. 57-60.｜Skjærvø, Oktor
 
+# 2006
+
+<sup>悉昙字本说源</sup>，<sup>语言学论丛</sup>第32辑，北京：商务印书馆，2006年，第334-355页。｜段晴
+
+<sup>新发现的于阗语〈金光明最胜王经〉</sup>，<sup>敦煌吐鲁番研究</sup>第九卷，北京：中华书局， 2006年，第7-22页。｜段晴
+
+# 2007
+
+<sup>寻踪觅影——汉译佛经中印度土著语法的痕迹(英文)</sup>，<sup>北京论坛（2007）文明的和谐与共同繁荣——人类文明的多元发展模式：“多元文明冲突与融合中语言的认同与流变”外国语分论坛论文或摘要集（下）</sup>，2007年，第114-125页。｜段晴
+
+“Two New Folios of Khotanese Suvarnabhāsottamasūtra,”<i>Annual Report of the International Research Institute for Advanced Buddhology at Soka University</i>, vol.X (2007), pp.325-336.｜段晴
+
+# 2008
+
+“In the Pursuit of Vyākaraṇa-elements in Chinese Translations”,  <i>Selected Papers of Beijing Forum 2007—The Harmony of Civilizations and Prosperity for All—Diversity in the Development of Human Civilization</i>, Beijing: PKU Press,  2008, pp.163-172.｜Duan Qing
+
+“The Maitrī-bhāvanā-prakaraṇa, A Chinese Parellel to the Third Chapter of the Book of <i>Zambasta</i>”, in M. Macuch, M. Maggi, and W. Sundermann (eds.), <i>Iranian Languages and Texts from Iran and Turfan, Ronald E. Emmerick Memorial Volume</i>, Wiesbaden: Harrassowitz, 2007[2008]，pp. 39-48.｜Duan Qing
+
 # 2009
 
+"A Fragment of the Bhadrakalpa-sutra in Buddhist Sanskrit from Xinjiang", <i>Sanskrit Manuscripts in China</i>, Beijing :China Tibetology Publishing House, 2009.｜Duan Qing
+
+"Bisā- and Hālaa- in a New Chinese-Khotanese Bilingual Document", <i>the Journal of Inner Asian Art and Archaeology</i>, vol.3, 2009, pp.65-73.｜Duan Qing
+
+"Misfortune caused by Kings", <i>Annual Report of the International Research Institute for Advanced Buddhology</i>, vol.XIII, 2010,pp.173-183.｜Duan Qing
+
+"Stories behind ‘Jindou'", in Ye Yiliang(ed.), <i>Collection of Papers on Iranian Studies in China</i>, Beijing: Peking Universtiy Press, 2009,pp.26-36.｜Duan Qing
+
+"‘Mulberry'in Khotanese", <i>Bulletin of the Asia Institute</i>, vol.19, 2009,pp.5-14.｜Duan Qing
+
 <i>The Literature of Pre-Islamic Iran: Companion Volume I toA History of Persian Literature</i>, ed. R. E. Emmerick and Maria Macuch, London, 2009 (<i>A History of Persian Literature</i> 17).｜Emmerick, Ronald Eric
+
+<sup>于阗文本〈修慈分〉</sup>，朱玉麒主编：<sup>西域文史</sup>第三辑，北京：科学出版社， 2009年，第1-57页。｜段晴
+
+<sup>于阗语〈对治十五鬼护身符〉</sup>，<sup>敦煌吐鲁番研究</sup>第11卷，上海：上海古籍出版社，2009年，第101-118页。｜段晴
+
+<sup>于阗语高僧买奴契约</sup>，<sup>敦煌吐鲁番研究</sup>第11卷，上海：上海古籍出版社，2009年，第11-28页。｜段晴
+
+<sup>和田博物馆藏于阗语租赁契约研究——重识于阗之“桑”</sup>，<sup>敦煌吐鲁番研究</sup>第11卷，上海：上海古籍出版社，2009年，第29-44页。｜段晴、和田地区博物馆
+
+<sup>明咒护身符</sup>，中国新疆文物考古研究所，日本佛教大学尼雅遗址学术研究机构编著：<sup>丹丹乌里克遗址——中日共同考察研究报告</sup>，文物出版社，2009年，第267-279页。｜段晴
+
+<sup>论“如意金箍棒”的原型及演变过程</sup>，<sup>南京社会科学</sup>2009年第8期，第80-83+95页。｜孙浩、段晴
+
+# 2010
+
+<sup>关于古代于阗的“村”</sup>，<sup>张广达先生八十华诞祝寿论文集</sup>，台北：新文丰出版公司，2010年9月，第581-604页。｜段晴
+
+<sup>梵语〈贤劫经〉残卷，兼述〈贤劫经〉在古代于阗的传布及竺法护的译经风格</sup>，<sup>西域历史语言研究集刊</sup>第三辑，2010，第201-231页。｜段晴
+
+# 2011
+
+"Some Fragments of the <i>Saṅghāṭa-sūtra</i> from the Xinjiang Museum, Urumqi", <i>Annual Report of the International Research Institute for Advanced Buddhology</i>, vol.XIV,2011,pp.127-134.｜Duan Qing
+
+<sup>中国国家图书馆藏BH5-3号佉卢文买卖土地契约</sup>，朱玉麒主编：<sup>西域文史</sup>第6辑，北京：科学出版社，2011年，第1-12页。｜段晴
+
+<sup>字里行间，汉译佛经所反映的梵文隐性现象</sup>，<sup>季羡林先生与北京大学东方学</sup>，银川：阳光出版社，2011（2013)年，第252-268页。｜段晴
+
+<sup>宝藏遗踪——近年来和田地区新出非汉语类文书综述</sup>，樊锦诗主编：<sup>敦煌文献·考古·艺术综合研究</sup>，北京：中华书局，2011年，第293－305页。｜段晴
+
+<sup>德国的印度学之初与季羡林先生的学术底蕴</sup>，<sup>敦煌吐鲁番研究</sup>第12卷，上海：上海古籍出版社，2011年，第1-14页。｜段晴
+
+Review:<i>Besprechung:Sanskrithandschriften aus den Turfanfunden</i>, <i>Orientalistische Literaturzeitung</i> 105, Germany.｜Duan Qing
+
+# 2012
+
+ "The inscription on the Sampul Carpets," <i>the Journal of Inner Asian Art and Archaeology</i>, vol.5, Brepols，2012, pp.95--100.｜Duan Qing
+
+"A Land Sale Contract in Kharoṣṭhī Script National Library of China Collection, No.BH5-3", <i>Annual Report of the International Research Institute for Advanced Buddhology</i>, vol.XV, 2012,pp.63-69.｜Duan Qing
+
+<sup>Hedin 24号文书释补</sup>，新疆吐鲁番学研究院编：<sup>语言背后的历史—西域古典语言学高峰论坛论文集</sup>，上海：上海古籍出版社，2012年，第74-78页。｜段晴
+
+<sup>〈僧伽吒经〉残叶</sup>, 刘绍刚、侯世新主编：<sup>新疆博物馆新获文书研究</sup>，北京：中华书局，2013年，第48页-59页。｜段晴
+
+<sup>尉迟曜11年裴捺卖地案牍</sup>，朱玉麒主编：<sup>西域文史</sup>第7辑，北京：科学出版社，2012年，第123-137页。｜ 段晴、策勒县文管所
+
+<sup>探径于长部</sup>，<sup>汉译巴利三藏·长部·序言</sup>，上海：中西书局，2012年，第6-30页。｜段晴
+
+<sup>汉译巴利三藏·长部</sup>，上海：中西书局，2012年。｜段晴等译
+
+<sup>译后记</sup>，<sup>汉译巴利三藏·长部</sup>，上海：中西书局，2012年，第589-590页。｜段晴
+
+# 2013
+
+"Puñadatta’s Life as Reflected in Khotanese Documents," под ред. С.Р. Тохтасьева и П.Б. Лурье, <i>Commentationes Iranicae: Сборник статей к 90-летию Владимира Ароновича Лившица</i>,СПб. : Нестор-История, 2013, pp. 435-445.｜Duan Qing
+
+"Were Textiles used as Money in Khotan in the Seventh and Eighth Centuries?" <i>Journal of the Royal Asiatic Society</i> vol. 23(April 2013), pp 307-325.｜Duan Qing and Helen Wang,
+
+<sup>〈造像功德经〉所体现的佛教神话模式</sup>，王邦维、陈金华、陈明编：<sup>佛教神话研究：文本、图像、传说与历史</sup>，上海：中西书局，2013年，第83-102页。｜段晴
+
+<sup>中国国家图书馆藏西域文书·梵文、佉卢文卷</sup>，上海：中西书局， 2013年。｜段晴
+
+<sup>中国国家图书馆藏西域文书·梵文、佉卢文卷·前言</sup>，上海：中西书局， 2013年，第1-5页。｜段晴
+
+<sup>义净与实叉难陀</sup>，中国人民大学国学院主编：<sup>国学的传承与创新——冯其庸先生从事教学与科研六十周年庆贺学术文集</sup>下册，上海：上海古籍出版社，2013年，第1109-1120页。｜段晴
+
+<sup>于阗·佛教·古卷</sup>，上海：中西书局，2013年。｜段晴
+
+<sup>于阗语〈佛说一切功德庄严王经〉残叶</sup>, 刘绍刚、侯世新主编：<sup>新疆博物馆新获文书研究</sup>，北京：中华书局，2013年，第60页-72页。｜段晴
+
+<sup>伏阇达五年蠲除契约案牍</sup>，饶宗颐主编：<sup>敦煌吐鲁番研究</sup>第13卷，上海：上海古籍出版社，2013年，第291-304页。｜段晴
+
+<sup>慈无味——无法表演的慈</sup>，<sup>光明日报</sup>2013年10月28日，第12版。｜段晴
+
+<sup>波斯帝国的历史传说</sup>，<sup>中国典籍与文化</sup>（第八辑），北京：国家图书馆出版社，2013年，第101-137页。｜段晴
+
+<sup>舅卖甥女案牍所折射的于阗历史</sup>，<sup>中国国家图书馆藏西域文书·于阗语卷（一）</sup>，上海：中西书局，2015年，第97-117页，图版32-38。初版见于秦大树、袁旔主编<sup>古丝绸之路——2011年亚洲跨文化交流与文化遗产国际学术研讨会论文集</sup>，新加坡：八方文化创作室，2013年，第33-60页。｜段晴
+
+<sup>萨波Vaisa之牒所隐括的社会变迁</sup>，刘绍刚、侯世新主编：<sup>新疆博物馆新获文书研究</sup>，2013年，北京：中华书局，第32-45页。｜段晴
+
+# 2014
+
+"Indic and Khotanese Manuscripts: New Finds and Findings from Xinjiang",
+Paul Harrison and Jens-Uwe Hartmann(eds.), <i>From Birch Bark to Digital Data: Recent Advances in Buddhist Manuscript Research, Papers Presented at the Conference Indic Buddhist Manuscripts: The State of the Field, Stanford, June 15–19 2009</i> Beiträge zur Kultur und Geistesgeschichte Asiens, Nr.80, Denkschriften der philosophisch-historischen Klasse, 460, Vienna: Österreichische Akademie der Wissenschaften. 2014, pp. 269—278.｜Duan Qing
+
+"Pledge, Collateral and Loan in Ancient Khotan," <i>Euroasian Studies II</i>, Sydney: Asia Publishing Nexus Australia, 2014, pp. 249–268.｜Duan Qing
+
+"Puñadatta’s contract of Sale of an estate, " <i>Annual Report of the International Research Institute for Advanced Buddhology at Soka University for the Academic Year 2013</i>, vol.17, 2014, pp.349-363 .｜Duan Qing
+
+<sup>于阗故地的诉说</sup>，上海博物馆编：<sup>于阗六篇：丝绸之路上的考古学案例</sup>，北京：北京大学出版社，2014年，第97-121页。｜段晴
+
+<sup>于阗文书所见古代于阗的典押制度</sup>，<sup>敦煌吐鲁番研究</sup>第14卷，2014年，第113-125页。｜段晴
+
+<sup>于阗文书所见古代于阗的典押制度</sup>，饶宗颐主编：<sup>敦煌吐鲁番研究</sup>第14卷，上海：上海古籍出版社，2014年，第113-125页。｜段晴
+
+<sup>新疆洛浦县地名“山普鲁”的传说</sup>，<sup>西域研究</sup>，2014年第4期，第1-8，139页。｜段晴
+
+<sup>洛浦地毯与吉尔伽美什的传说</sup>，<sup>华夏地理</sup>2014年1月，第30-31页。。｜段晴
+
+<sup>穿越了时空的文字</sup>，<sup>多浪龟兹</sup>总第23期，2014年，第81-85页。｜段晴
+
+<sup>钱与帛——中国人民大学博物馆藏三件于阗语—汉语双语文书解析</sup>，<sup>西域研究</sup>2014年第1期，第29-38页。｜段晴、李建强
+
+# 2015
+
+"A Sanskrit Buddhist Document On Cloth of the Earlier 7th Century，" in Yu Taishan and Li Jinxiu(eds.)，<i>Eurasian Studies English Edition III</i>, Asia Publishing Nexus , 2015，pp.171-185.｜Duan Qing
+
+<sup>一件来自公元6世纪的梵语世俗文书</sup>，西藏社会科学院贝叶经研究所编：<sup>西藏贝叶经研究</sup>，拉萨：西藏藏文古籍出版社，2015年，第1-11页。｜段晴
+
+<sup>中国国家图书馆藏西域文书：于阗语卷（一）</sup>，上海：中西书局，2015年。｜段晴
+
+<sup>于阗文书所见古代于阗的典押制度</sup>，<sup>敦煌吐鲁番研究</sup>第14卷，2015年第1期，第113-125页。｜段晴
+
+<sup>于阗语〈无垢净光大陀罗尼经〉之源与流</sup>，荣新江、朱玉麒主编：<sup>西域考古·史地·语言研究新视野：黄文弼与中瑞西北科学考察团国际学术研讨会论文集</sup>，北京：科学出版社，2015年，第329-338页。｜段晴
+
+<sup>佉卢文世俗文书所反映的社会生活</sup>，<sup>中国文化报</sup>2015年5月22日，第4版。｜段晴
+
+<sup>佉卢文世俗文书所反映的社会生活</sup>，<sup>中国文化报</sup>，2015年5月22日，第4版。｜段晴
+
+<sup>天树下娜娜女神的宣言——新疆洛浦县山普鲁出土毛毯系列研究之一</sup>，<sup>西域研究</sup>，2015年第4期，第147-160+192页。｜段晴
+
+<sup>新疆山普鲁古毛毯上的传说故事</sup>，<sup>西域研究</sup>，2015年第1期，第38-47+138-139页。｜段晴
+
+<sup>裴捺的人生轨迹</sup>，阿不都热西提·亚库甫主编：<sup>西域—中亚语文学研究：2012年中央民族大学主办西域—中亚语文学国际学术研讨会论文集</sup>，上海：上海古籍出版社，2015年，第80-89页。｜段晴
+
+<sup>飘带来自吉祥——反映在古代于阗画中的祆教信仰符号</sup>，<sup>艺术史研究</sup>2015年第17辑，第153-166页。｜段晴
+
+# 2016
+
+"Deed, Coins and King's Title as Revealed in a Sanskrit Cloth Document from the 6 Century"，in Yu Taishan and Li Jinxiu(eds.)，Eurasian Studies English Edition IV, Asia Publishing Nexus, 2016, pp.265-283.｜Duan Qing
+
+<sup>于阗语大案牍——新疆维吾尔自治区博物馆藏初唐案牍研究</sup>，<sup>唐研究</sup>第22卷，2016年，第371-400页。｜ 段晴、侯世新、李达
+
+<sup>木球之喻</sup>, 程彤主编：<sup>丝绸之路上的照世杯：“中国与伊朗：丝绸之路上的文化交流”国际研讨会论文集</sup>，上海：中西书局，2016年，第31-40页。｜段晴
+
+<sup>粟特商队到于阗——BH4-135之于阗文书的解读</sup>，荣新江、罗丰主编：<sup>粟特人在中国：考古发现与出土文献的新印证（上册）</sup>，北京：科学出版社，2016年，第96-115页。｜段晴
+
+<sup>萨迦牟云的家园——以尼雅29号遗址出土佉卢文书观鄯善王国的家族与社会</sup>，<sup>西域研究</sup>，2016年第3期，第54-64+143页。｜段晴
+
+<sup>青海藏医药文化博物馆藏佉卢文尺牍</sup>，上海：中西书局，2016年。｜段晴
+
+# 2017
+
+"Greek Gods and Traces of the Sumerian Mythology"，<sup>丝绸之路研究</sup>第一辑，2017年，第1-16页。｜Duan Qing
+
+# 2018
+
+<sup>〈声教所及——对纪晓岚新疆行脚的民俗回访〉序</sup>，上海：中西书局，2018年，第1-13页。｜段晴
+
+<sup>〈神话与仪式——以观察新疆洛浦博物馆氍毹为基础〉问答、评议与讨论</sup>，<sup>民族艺术</sup>，2018年第5期，第45-49页。｜程雪，段晴
+
+<sup>〈神话的跨域性与地方性——以观察新疆洛浦博物馆氍毹为基础〉问答、评议与讨论</sup>，<sup>民族艺术</sup>2018年第4期，第23-27页。｜陈姵瑄,段晴等
+
+<sup>石汗那的婴儿——新疆博物馆藏一件新出于阗语案牍</sup>，<sup>敦煌吐鲁番研究</sup>第18卷，2018年， 第265-278页。｜ 段晴、侯世新、李达
+
+<sup>神话与仪式——以观察新疆洛浦博物馆氍毹为基础</sup>，<sup>民族艺术</sup>，2018年第5期，第31-44页。｜段晴
+
+<sup>神话的跨域性与地方性——以观察新疆洛浦博物馆氍毹为基础</sup>，<sup>民族艺术</sup>，2018年第4期，第13-22页。｜段晴
+
+<sup>精绝、鄯善古史钩沉</sup>，余太山、李锦绣主编：<sup>欧亚学刊</sup>新第7辑，北京：商务印书馆，2018年，第21-34页。｜段晴
+
+<sup>陌生的友邻</sup>，<sup>华夏地理</sup>2018年第8期。｜段晴
+
+# 2019
+
+<sup>于阗伏阇雄时代的两件契约</sup>，荣新江、朱玉麒主编：<sup>丝绸之路新探索：考古、文献与学术史</sup>，南京：凤凰出版社，2019年，第131-142页。｜ 段晴、侯世新、李达
+
+<sup>早期、晚期于阗语与方言——〈无垢净光大陀罗尼〉所反映的语言问题</sup>，王振芬、荣新江主编：<sup>丝绸之路与新疆出土文献——旅顺博物馆百年纪念国际学术研讨会论文集，北京：中华书局，2019年，第497-511页。｜段晴
+
+『カルパラージャ·スートラ』と仏塔信仰， <sup>東洋学術研究</sup>第58卷，第2号（通卷183号），2019年，第65-85页。｜段晴
+
+# 2020
+
+<sup>专栏主持人语</sup>，<sup>语言学研究</sup>2020年第2期，第3-5页。｜段晴
+
+<sup>丝路之畔的赫尔墨斯</sup>，<sup>新丝路学刊</sup>2020年第1期，第1-14页。｜段晴
+
+<sup>买卖僧房舍契约</sup>，<sup>敦煌学</sup>2020年第36期（张广达先生九十华诞颂寿特刊），第315-328页。｜段晴
+
+<sup>于阗王国之名新考</sup>，<sup>西域研究</sup>2020年第1期，第79-89+171-172页。｜段晴
+
+<sup>于阗语“四象”以及龙王“热舍”</sup>，<sup>语言学研究</sup>2020年第2期，第6-14页。｜段晴
+
+<sup>天灾人祸所生发的信仰与习俗——基于古代于阗文明的观察</sup>，北京大学人文社会科学研究院，2020年4月20日发表，澎湃2020年5月14日转载<sup>古代于阗天灾人祸所生发的信仰与习俗</sup>。｜段晴
+
+Book chapter:  Across-Regional and Local Characteristics of Mythologies: On the Basis of Observing the Lop Museum carpets, Xiao Li(ed.) ,  Non-Han Literature Along the Silk Road,  Silk Road Research Series, SDX Joint Publishing & Springer,  2020, pp. 1-20.｜Qing Duan 
+
+Book chapter:  Legends and Ceremonies: Based on the Observation of the Qu Shu Collection at Xinjiang Lop Museum , Xiao Li(ed.) ,   Non-Han Literature Along the Silk Road, Silk Road Research Series,  SDX Joint Publishing & Springer,  2020, pp. 21-45.｜Qing Duan 
+
+Book chapter: About qushu: Carpets or Rugs with Long Hair, Xiao Li(ed.) ,   Studies on the History and Culture Along the Continental Silk Road, Silk Road Research Series,  SDX Joint Publishing & Springer,  2020,  pp.21-30｜Qing Duan and Liang Zheng
+
+Foreword, Xiao Li(ed.) ,  Non-Han Literature Along the Silk Road, Silk Road Research Series, SDX Joint Publishing & Springer,  2020, pp. ix-xi.｜Qing Duan 
+
+Kalparāja-sūtra and Pagoda Worship, The Journal of Oriental Studies, Vol.3o,  September 2020.｜Duan Qing
 
 # forthcoming
 
@@ -1462,4 +1765,10 @@ Zoroastrian Dualism, in acts of Light Against Darkness Dualism in Ancient Medite
 # zzz_unknown
 
 <i>A͑nāṣer-e irāni dar kiš-e mānavi</i> (Iranian Elements in Manicheism). Translated by Mohammad Shokri Fumeshi with introduction, commentary, bibliography, and indices, Tehran, 1382.｜Skjærvø, Oktor
+
+# 待刊
+
+<sup>关于古代于阗“税”的辩考——基于策勒县文物保护管理所藏于阗语案牍所做观察</sup>，待刊。｜段晴
+
+<sup>吕珎胡书——对中国国家图书馆藏西域文书BH1-17于阗语文书的释读</sup>，待刊。｜段晴
 
